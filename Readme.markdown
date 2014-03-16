@@ -16,7 +16,6 @@ So far one iteration of the knife was built (tagged as `mark1`),
 more or less according to the model (handle from aluminium and without the beer opener) ...
 ... And it works :-) It's a bit dull and wobbly, but the problem here are IMO my hands, not the design :-)
 
-![Opened knife](https://github.com/bluecube/knife/raw/framelock/opened.jpg)
+![Open knife](https://github.com/bluecube/knife/raw/framelock/open.jpg)
 ![Closed knife](https://github.com/bluecube/knife/raw/framelock/closed.jpg)
-
-There is also a [drawing in PDF](https://github.com/bluecube/knife/raw/framelock/knife.pdf).
+![Detail of the lock](https://github.com/bluecube/knife/raw/framelock/detail.jpg)
