@@ -20,4 +20,3 @@ the blade.
 
 ![Open knife](https://github.com/bluecube/knife/raw/framelock/open.jpg)
 ![Closed knife](https://github.com/bluecube/knife/raw/framelock/closed.jpg)
-![Half open knife](https://github.com/bluecube/knife/raw/framelock/half-open.jpg)
